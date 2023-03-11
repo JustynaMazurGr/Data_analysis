@@ -1,5 +1,7 @@
 # Data_analysis
-Task: Perform the task on a sample of size 1000. Load the data from https://archive.ics.uci.edu/ml/datasets/Adult.
+
+## Task: 
+Perform the task on a sample of size 1000. Load the data from https://archive.ics.uci.edu/ml/datasets/Adult.
 Answer the question - does education affect income level?
 
 This code performs data analysis on income and education. 
