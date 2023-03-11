@@ -1,8 +1,8 @@
 # Data_analysis
 
+The task is performed on a file consisting of 1000 rows of data from https://archive.ics.uci.edu/ml/datasets/Adult.
 ## Task: 
-Perform the task on a sample of size 1000. Load the data from https://archive.ics.uci.edu/ml/datasets/Adult.
-Answer the question - does education affect income level?
+Answer to the question: Does education have an impact on income level?
 
 This code performs data analysis on income and education. 
 It loads data from a csv file named "Adult-1000_decission_class_mapped.csv" using the pandas library and then processes the data to create pie charts for two groups:
